@@ -1,6 +1,6 @@
 # nosql-challenge
 
-Used Stack Overflow, Google and ChatGpt to find helpful information
+Used Stack Overflow, Google, MongoDB, and ChatGpt to find helpful information
 Asked AskBCS for assistence with understanding and code verification
 
 
